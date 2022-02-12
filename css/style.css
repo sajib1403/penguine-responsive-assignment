@@ -1,0 +1,41 @@
+.front {
+    background-color: rgb(241, 243, 232);
+}
+
+.jackets {
+    background-color: rgb(243, 240, 240);
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.penguine-card {
+    border: 0;
+    border-radius: 40px;
+    padding: 20px;
+}
+
+.penguine-card img {
+    height: 300px;
+    width: 200px;
+}
+
+.card-body {
+    margin-top: 10px;
+    padding: 0%;
+}
+.font {
+    font-family: "Times New Roman", Times, serif;
+}
+ul li{
+    color:black;
+    font-weight: bold;
+}
+h3,h5 {
+    font-weight: bold;
+}
+
+p{
+    font-size: small;
+}
+
+
